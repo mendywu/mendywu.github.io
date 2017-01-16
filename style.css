@@ -1,5 +1,8 @@
 body {
-  background-color: #1a1a1a ;
+  background-color: #1a1a1a;
+  background-image: url("img/wallpaper5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
   font-size: 20px;
   padding-left: 15%;
@@ -8,7 +11,7 @@ body {
 }
 
 #h1 {
-  font-size: 60px;
+  font-size: 80px;
   font-weight: bold;
   color: white;
 }
@@ -36,8 +39,14 @@ body {
   box-shadow: 7px 7px 5px black;
 }
 
-img {
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+a img {
     padding-left: 20px;
+    Text-decoration: none;
+    outline: none;
+    border: 0px none transparent;
 }
 
 #content {
