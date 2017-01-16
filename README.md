@@ -1,2 +1,2 @@
 # Personal Website
-Still a work in progress...
+Still a work in progress.
