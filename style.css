@@ -6,9 +6,11 @@ body {
   padding: 10px;
 }
 
-h1 {
+#name {
   font-size: 45px;
   font-weight: bold;
+  color: white;
+  background-color: #1a1a1a;
 }
 
 #subheading {
