@@ -1,17 +1,30 @@
 body {
   background-color: #1a1a1a ;
   color: white;
-  font-family: helvetica, sans-serif;
+  font-family: Avenir, sans-serif;
+  font-size: 20px;
+  padding: 10px;
+}
+
+h1 {
   font-size: 45px;
+  font-weight: bold;
+}
+
+#subheading {
+  font-weight: lighter;
+  position: relative;
+  top: -10px;
+  left: 40px;
 }
 
 #id {
   background-color: white;
-  width: 500px;
-  height: 300px;
+  width: 550px;
+  height: 350px;
   position: absolute;
-  top: 20%;
-  left: 16%;
+  top: 130px;
+  left: 40px;
   -moz-border-radius:    10px;
   -webkit-border-radius: 10px;
   border-radius:         20px;
@@ -20,10 +33,4 @@ body {
 #content {
   background-color: white;
   font-family: helvetica;
-}
-
-#text {
-  color: #1a1a1a;
-  padding: 15px;
-  font-size: 17px;
 }
