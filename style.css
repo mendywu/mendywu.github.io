@@ -1,6 +1,6 @@
 body {
   background-color: #1a1a1a;
-  background-image: url("img/wallpaper5.jpg");
+  background-image: url("img/wallpaper5.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -10,8 +10,9 @@ body {
   font-family: Segoe UI, sans-serif;
 }
 
-#h1 {
-  font-size: 80px;
+nav {
+  font-size: 45px;
+  font-family: Segoe UI, sans-serif;
   font-weight: bold;
   color: white;
 }
