@@ -6,6 +6,7 @@ body {
   color: white;
   font-size: 20px;
   padding-left: 15%;
+  padding-right: 8%;
   padding-top: 10%;
   font-family: Segoe UI, sans-serif;
 }
@@ -16,15 +17,9 @@ nav {
   color: white;
 }
 
-#resume {
-  position: relative;
-  left: 30%;
-}
-
 #subheading {
   font-weight: lighter;
   position: relative;
-  top: -5px;
 }
 
 #links {
@@ -44,6 +39,7 @@ nav {
 a:hover, a:visited, a:link, a:active {
     text-decoration: none;
 }
+
 a img {
     padding-left: 8px;
     padding-right: 8px;
